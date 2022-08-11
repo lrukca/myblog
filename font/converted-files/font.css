@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'MaterialIconsTwoTone-Regular';
+  src: url('MaterialIconsTwoTone-Regular.eot');
+  src: url('MaterialIconsTwoTone-Regular.eot?#iefix') format('embedded-opentype'),
+       url('MaterialIconsTwoTone-Regular.svg#MaterialIconsTwoTone-Regular') format('svg'),
+       url('MaterialIconsTwoTone-Regular.ttf') format('truetype'),
+       url('MaterialIconsTwoTone-Regular.woff') format('woff'),
+       url('MaterialIconsTwoTone-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'MaterialIconsOutlined-Regular';
+  src: url('MaterialIconsOutlined-Regular.eot');
+  src: url('MaterialIconsOutlined-Regular.eot?#iefix') format('embedded-opentype'),
+       url('MaterialIconsOutlined-Regular.svg#MaterialIconsOutlined-Regular') format('svg'),
+       url('MaterialIconsOutlined-Regular.ttf') format('truetype'),
+       url('MaterialIconsOutlined-Regular.woff') format('woff'),
+       url('MaterialIconsOutlined-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
